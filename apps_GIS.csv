@@ -1,0 +1,18 @@
+nome,sito,piattaforma,descrizione
+Qfield,http://www.qfield.org/,Android,compatibile al 100% con QGIS desktop
+Geopaparazzi,https://github.com/geopaparazzi,Android,permette di raccogliere diversi tipi di informazioni georiferite: note;bookmarks;foto;tracciati. Si integra con il database Spatialite per il caricamento di file vettoriali e permette di caricare sia basemap che servizi wms
+Oruxmaps,http://www.oruxmaps.com/cs/en/,,
+GeoODK,http://geoodk.com/,,
+Xtrails,http://www.sportevents.eu/xtrails/en/home/,,
+mapitGIS,http://mapit-gis.com/,,
+viewranger,http://www.viewranger.com/en-US,,
+backcountrynavigator,http://backcountrynavigator.com/,,
+wikiloc,https://it.wikiloc.com/,,
+avenza Maps,https://4land.it/it/cartografia-digitale-avenza/,,
+GPS Logger,http://www.basicairdata.eu,Android,Correzione EGM96 automatica(basata su NGA Earth Geoid Model)/Tracking automatico e manuale
+GIS4Mobile-x,http://www.gis4mobile.dk,Android,Funziona anche OffLine
+SW Maps,http://swmaps.softwel.com.np,Android,Show elevation point/Import-Export shapefile /Take Photo
+Lemon GPS Pro,http://www.genesis.net/lemon/,Android,Acquisisce Punti Singoli con precisione <1m/Proiezione UTM/Geografic
+iConv,http://leonardoce.interfree.it/iconv,Android,Acquisisce Punti Singoli/supporta anche sistema Cassini-Soldner ed altri S.R./varie conversioni
+UTM Geo Map,http://www.yogantara.info,Android,Correzione EGM96/Elevation MSL
+Shapefile over Map (SOM),https://sites.google.com/site/shapefileovermap/,Android,Support for all UTM Projections (WGS84; SAD69 and NAD83)/WMS Server/Offline Tracking
